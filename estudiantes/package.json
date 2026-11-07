@@ -1,0 +1,17 @@
+{
+  "name": "practica-ia-estudiantes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5180 --strictPort",
+    "test": "node --test",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "vite": "8.3.5"
+  }
+}
